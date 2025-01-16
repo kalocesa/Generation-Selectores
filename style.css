@@ -36,11 +36,11 @@ a {
   color: #c30;
 }
 
-.primero__texto {
+#primero p {
   color: #369;
 }
 
-.enfasis__primero {
+#primero em {
   color: #0000bb;
   background-color: #ffffcc;
 }
@@ -50,6 +50,6 @@ a {
   background: #000000;
 }
 
-.normal__span {
+.normal span {
   font-weight: bold;
 }
